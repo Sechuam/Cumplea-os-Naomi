@@ -1,0 +1,8 @@
+{
+  "name": "Cumpleaños de Naomi - Boo Basket & Pistas Sorpresa",
+  "description": "Invitación interactiva y juego de pistas románticas guiado por pétalos de rosa para encontrar su Boo Basket de chuches y zapatillas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
